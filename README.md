@@ -1,7 +1,5 @@
-# MDB-Movie-Analysis-Python-PROJECT
+# IMDB-Movie-Analysis-Python-PROJECT
 “A data analysis project exploring IMDB movie trends using Python, Pandas, Matplotlib, Seaborn, and Jupyter Notebook.”
-
-##IMDB Movie Analysis 
 
 An end-to-end data analysis project using Python, Pandas, Matplotlib, and Seaborn.
 This project explores movie ratings, budgets, revenue patterns, genre trends, and decade-based observations using an IMDB dataset.
